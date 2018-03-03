@@ -13,7 +13,7 @@ Create a project
 ```bash
     mvn archetype:generate \
         -DarchetypeGroupId=com.tugrul \
-        -DarchetypeArtifactId=codewars \
+        -DarchetypeArtifactId=codewars-archetype \
         -DarchetypeVersion=1.0.0 \
         -DgroupId=my.groupid \
         -DartifactId=my-artifactId \
