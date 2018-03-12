@@ -1,3 +1,5 @@
+![Travis CI](https://travis-ci.org/TugrulAsik/codewars-archetype.svg?branch=master)
+
 # codewars-archetype
 Simple maven archetype for Codewars katas
 
