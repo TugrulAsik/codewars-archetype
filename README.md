@@ -15,6 +15,7 @@ Create a project
 ### Manually Install
 ```bash
 git clone https://github.com/TugrulAsik/codewars-archetype.git
+cd codewars-archetype
 mvn clean install
 ```
 
